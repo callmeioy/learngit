@@ -7,5 +7,5 @@ Create a new branch is quick and simple
 多分支管理
 
 
-多分支管理很好呀
+多分支管理很好呀,是真的不错
 
